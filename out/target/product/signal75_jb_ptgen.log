@@ -1,0 +1,1932 @@
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+Ptgen ERROR: Ptgen open CUSTOM_MEMORYDEVICE_H_NAME fail!
+ at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 348
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Ptgen ERROR: Ptgen open CUSTOM_MEMORYDEVICE_H_NAME fail!
+ at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 348
+Use of uninitialized value $LDVT_SUPPORT in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 176.
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 187.
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 187.
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 187.
+Ptgen ERROR: Ptgen open CUSTOM_MEMORYDEVICE_H_NAME fail!
+ at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 295
+*******************Arguments*********************
+Version=3.3 ChangeHistory:3.3 Support Shared SD Card
+
+PLATFORM = MT6575;
+PROJECT = signal75_jb;
+LCA_PRJ = no;
+PAGE_SIZE = 4K;
+EMMC_SUPPORT= yes;
+LDVT_SUPPORT= ;
+TARGET_BUILD_VARIANT= ;
+MTK_EMMC_OTP_SUPPORT= ;
+MTK_SHARED_SDCARD=yes;
+SHEET_NAME=emmc otp
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Ptgen ERROR: Ptgen open CUSTOM_MEMORYDEVICE_H_NAME fail!
+ at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 295
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 135.
+Name "main::MTK_SHARED_SDCARD" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Ptgen ERROR: Ptgen open CUSTOM_MEMORYDEVICE_H_NAME fail!
+ at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 327
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHEET_NAME=MT6575 emmc otp
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+Ptgen ERROR: Ptgen open CUSTOM_MEMORYDEVICE_H_NAME fail!
+ at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 327
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 135.
+Name "main::MTK_SHARED_SDCARD" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Ptgen ERROR: Ptgen open CUSTOM_MEMORYDEVICE_H_NAME fail!
+ at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 327
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHEET_NAME=MT6575 emmc otp
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+Ptgen ERROR: Ptgen open CUSTOM_MEMORYDEVICE_H_NAME fail!
+ at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 327
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 135.
+Name "main::MTK_SHARED_SDCARD" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHEET_NAME=MT6575 emmc otp
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128=2176
+The MAX BOOT1+BOOT2+RPMB=2176  in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+No mediatek/config/signal75_jb/eMMC_Compo.pl
+Get MBR_Start_Address_KB from mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h = 2176
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=1920,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x220000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x224000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x280000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x680000,		Partition=NVRAM,		SIZE=5120,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xb80000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xba0000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xc00000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1200000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1800000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=5,	REGION =USER
+START=0x1e00000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x1e60000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2160000,		Partition=EXPDB,		SIZE=2048,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2360000,		Partition=PRO_INFO,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2660000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2664000,		Partition=CUSTPACK,		SIZE=422912,	DL_=1, 	Partition_Index=6,	REGION =USER
+START=0x1c364000,		Partition=EBR3,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1c368000,		Partition=MOBILE_INFO,		SIZE=8192,	DL_=1, 	Partition_Index=7,	REGION =USER
+START=0x1cb68000,		Partition=EBR4,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1cb6c000,		Partition=ANDROID,		SIZE=422912,	DL_=1, 	Partition_Index=8,	REGION =USER
+START=0x3686c000,		Partition=CACHE,		SIZE=320512,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x4a16c000,		Partition=USRDATA,		SIZE=1460224,	DL_=0, 	Partition_Index=3,	REGION =USER
+START=0xa336c000,		Partition=FAT,		SIZE=0,	DL_=0, 	Partition_Index=4,	REGION =USER
+START=0xFFFF0200,		Partition=OTP,		SIZE=44032,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xFFFF0050,		Partition=BMTPOOL,		SIZE=10240,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 26 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 528.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 528.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+MBR start is 2228224
+P1 start is 32
+P2 start is 1782368
+P3 start is 2423392
+P4 start is 5343840
+P1 size is 1782336
+P2 size is 638976
+P3 size is 2918400
+P4 size is 4294967295
+P5 start is 44800
+P5 size is 10240
+P6 start is 936544
+P6 size is 843776
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 135.
+Name "main::MTK_SHARED_SDCARD" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHEET_NAME=MT6575 emmc otp
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128=2176
+The MAX BOOT1+BOOT2+RPMB=2176  in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=5888,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x600000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x604000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x660000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xa60000,		Partition=NVRAM,		SIZE=5120,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xf60000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xf80000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xfe0000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x15e0000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1be0000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=5,	REGION =USER
+START=0x21e0000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2240000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2540000,		Partition=EXPDB,		SIZE=2048,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2740000,		Partition=PRO_INFO,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2a40000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2a44000,		Partition=CUSTPACK,		SIZE=422912,	DL_=1, 	Partition_Index=6,	REGION =USER
+START=0x1c744000,		Partition=EBR3,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1c748000,		Partition=MOBILE_INFO,		SIZE=8192,	DL_=1, 	Partition_Index=7,	REGION =USER
+START=0x1cf48000,		Partition=EBR4,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1cf4c000,		Partition=ANDROID,		SIZE=422912,	DL_=1, 	Partition_Index=8,	REGION =USER
+START=0x36c4c000,		Partition=CACHE,		SIZE=320512,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x4a54c000,		Partition=USRDATA,		SIZE=1460224,	DL_=0, 	Partition_Index=3,	REGION =USER
+START=0xa374c000,		Partition=FAT,		SIZE=0,	DL_=0, 	Partition_Index=4,	REGION =USER
+START=0xFFFF0200,		Partition=OTP,		SIZE=44032,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xFFFF0050,		Partition=BMTPOOL,		SIZE=10240,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 26 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 528.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 528.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+Use of uninitialized value $MTK_SHARED_SDCARD in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+MBR start is 6291456
+P1 start is 32
+P2 start is 1782368
+P3 start is 2423392
+P4 start is 5343840
+P1 size is 1782336
+P2 size is 638976
+P3 size is 2918400
+P4 size is 4294967295
+P5 start is 44800
+P5 size is 10240
+P6 start is 936544
+P6 size is 843776
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+Skip FAT because of yes On
+MBR=16 $Min_user_region=3817456 
+EBR1=368 $Min_user_region=3817088 
+PMT=4096 $Min_user_region=3812992 
+NVRAM=5120 $Min_user_region=3807872 
+SECCFG=128 $Min_user_region=3807744 
+UBOOT=384 $Min_user_region=3807360 
+BOOTIMG=6144 $Min_user_region=3801216 
+RECOVERY=6144 $Min_user_region=3795072 
+SEC_RO=6144 $Min_user_region=3788928 
+MISC=384 $Min_user_region=3788544 
+LOGO=3072 $Min_user_region=3785472 
+EXPDB=2048 $Min_user_region=3783424 
+PRO_INFO=3072 $Min_user_region=3780352 
+EBR2=16 $Min_user_region=3780336 
+CUSTPACK=422912 $Min_user_region=3357424 
+EBR3=16 $Min_user_region=3357408 
+MOBILE_INFO=8192 $Min_user_region=3349216 
+EBR4=16 $Min_user_region=3349200 
+ANDROID=422912 $Min_user_region=2926288 
+CACHE=320512 $Min_user_region=2605776 
+OTP=44032 $Min_user_region=2561744 
+BMTPOOL=21504 $Min_user_region=2540240 
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=5888,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x600000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x604000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x660000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xa60000,		Partition=NVRAM,		SIZE=5120,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xf60000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xf80000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xfe0000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x15e0000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1be0000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x21e0000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2240000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2540000,		Partition=EXPDB,		SIZE=2048,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2740000,		Partition=PRO_INFO,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2a40000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2a44000,		Partition=CUSTPACK,		SIZE=422912,	DL_=1, 	Partition_Index=3,	REGION =USER
+START=0x1c744000,		Partition=EBR3,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1c748000,		Partition=MOBILE_INFO,		SIZE=8192,	DL_=1, 	Partition_Index=4,	REGION =USER
+START=0x1cf48000,		Partition=EBR4,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1cf4c000,		Partition=ANDROID,		SIZE=422912,	DL_=1, 	Partition_Index=5,	REGION =USER
+START=0x36c4c000,		Partition=CACHE,		SIZE=320512,	DL_=1, 	Partition_Index=6,	REGION =USER
+START=0x4a54c000,		Partition=USRDATA,		SIZE=2533376,	DL_=0, 	Partition_Index=7,	REGION =USER
+START=0xFFFF0200,		Partition=OTP,		SIZE=44032,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xFFFF00A8,		Partition=BMTPOOL,		SIZE=21504,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 25 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+Generate mediatek/misc/EBR3 bin file
+Generate mediatek/misc/EBR4 bin file
+xwguo gen kernel.h**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+Skip FAT because of yes On
+MBR=16 $Min_user_region=3817456 
+EBR1=368 $Min_user_region=3817088 
+PMT=4096 $Min_user_region=3812992 
+NVRAM=3072 $Min_user_region=3809920 
+SECCFG=128 $Min_user_region=3809792 
+UBOOT=384 $Min_user_region=3809408 
+BOOTIMG=6144 $Min_user_region=3803264 
+RECOVERY=6144 $Min_user_region=3797120 
+SEC_RO=6144 $Min_user_region=3790976 
+MISC=384 $Min_user_region=3790592 
+LOGO=3072 $Min_user_region=3787520 
+EXPDB=640 $Min_user_region=3786880 
+EBR2=16 $Min_user_region=3786864 
+ANDROID=525312 $Min_user_region=3261552 
+CACHE=525312 $Min_user_region=2736240 
+BMTPOOL=10240 $Min_user_region=2726000 
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=5888,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x600000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x604000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x660000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xa60000,		Partition=NVRAM,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd60000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd80000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xde0000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x13e0000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x19e0000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x1fe0000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2040000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2340000,		Partition=EXPDB,		SIZE=640,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x23e0000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x23e4000,		Partition=ANDROID,		SIZE=525312,	DL_=1, 	Partition_Index=3,	REGION =USER
+START=0x224e4000,		Partition=CACHE,		SIZE=525312,	DL_=1, 	Partition_Index=4,	REGION =USER
+START=0x425e4000,		Partition=USRDATA,		SIZE=2719744,	DL_=0, 	Partition_Index=5,	REGION =USER
+START=0xFFFFFFFFFFFF0050,		Partition=BMTPOOL,		SIZE=10240,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 19 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+Generate mediatek/misc/EBR3 bin file
+Generate mediatek/misc/EBR4 bin file
+xwguo gen kernel.h**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+Skip FAT because of yes On
+MBR=16 $Min_user_region=3817456 
+EBR1=368 $Min_user_region=3817088 
+PMT=4096 $Min_user_region=3812992 
+NVRAM=3072 $Min_user_region=3809920 
+SECCFG=128 $Min_user_region=3809792 
+UBOOT=384 $Min_user_region=3809408 
+BOOTIMG=6144 $Min_user_region=3803264 
+RECOVERY=6144 $Min_user_region=3797120 
+SEC_RO=6144 $Min_user_region=3790976 
+MISC=384 $Min_user_region=3790592 
+LOGO=3072 $Min_user_region=3787520 
+EXPDB=640 $Min_user_region=3786880 
+EBR2=16 $Min_user_region=3786864 
+ANDROID=525312 $Min_user_region=3261552 
+CACHE=525312 $Min_user_region=2736240 
+BMTPOOL=10240 $Min_user_region=2726000 
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=5888,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x600000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x604000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x660000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xa60000,		Partition=NVRAM,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd60000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd80000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xde0000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x13e0000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x19e0000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x1fe0000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2040000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2340000,		Partition=EXPDB,		SIZE=640,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x23e0000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x23e4000,		Partition=ANDROID,		SIZE=525312,	DL_=1, 	Partition_Index=3,	REGION =USER
+START=0x224e4000,		Partition=CACHE,		SIZE=525312,	DL_=1, 	Partition_Index=4,	REGION =USER
+START=0x425e4000,		Partition=USRDATA,		SIZE=2719744,	DL_=1, 	Partition_Index=5,	REGION =USER
+START=0xFFFFFFFFFFFF0050,		Partition=BMTPOOL,		SIZE=10240,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 19 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+Generate mediatek/misc/EBR3 bin file
+Generate mediatek/misc/EBR4 bin file
+xwguo gen kernel.h**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+Skip FAT because of yes On
+MBR=16 $Min_user_region=3817456 
+EBR1=368 $Min_user_region=3817088 
+PMT=4096 $Min_user_region=3812992 
+NVRAM=3072 $Min_user_region=3809920 
+SECCFG=128 $Min_user_region=3809792 
+UBOOT=384 $Min_user_region=3809408 
+BOOTIMG=6144 $Min_user_region=3803264 
+RECOVERY=6144 $Min_user_region=3797120 
+SEC_RO=6144 $Min_user_region=3790976 
+MISC=384 $Min_user_region=3790592 
+LOGO=3072 $Min_user_region=3787520 
+EXPDB=640 $Min_user_region=3786880 
+EBR2=16 $Min_user_region=3786864 
+ANDROID=525312 $Min_user_region=3261552 
+CACHE=525312 $Min_user_region=2736240 
+BMTPOOL=10240 $Min_user_region=2726000 
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=5888,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x600000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x604000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x660000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xa60000,		Partition=NVRAM,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd60000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd80000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xde0000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x13e0000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x19e0000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x1fe0000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2040000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2340000,		Partition=EXPDB,		SIZE=640,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x23e0000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x23e4000,		Partition=ANDROID,		SIZE=525312,	DL_=1, 	Partition_Index=3,	REGION =USER
+START=0x224e4000,		Partition=CACHE,		SIZE=525312,	DL_=1, 	Partition_Index=4,	REGION =USER
+START=0x425e4000,		Partition=USRDATA,		SIZE=2719744,	DL_=1, 	Partition_Index=5,	REGION =USER
+START=0xFFFFFFFFFFFF0050,		Partition=BMTPOOL,		SIZE=10240,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 19 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+Generate mediatek/misc/EBR3 bin file
+Generate mediatek/misc/EBR4 bin file
+xwguo gen kernel.h**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+Skip FAT because of yes On
+MBR=16 $Min_user_region=3817456 
+EBR1=368 $Min_user_region=3817088 
+PMT=4096 $Min_user_region=3812992 
+NVRAM=3072 $Min_user_region=3809920 
+SECCFG=128 $Min_user_region=3809792 
+UBOOT=384 $Min_user_region=3809408 
+BOOTIMG=6144 $Min_user_region=3803264 
+RECOVERY=6144 $Min_user_region=3797120 
+SEC_RO=6144 $Min_user_region=3790976 
+MISC=384 $Min_user_region=3790592 
+LOGO=3072 $Min_user_region=3787520 
+EXPDB=640 $Min_user_region=3786880 
+EBR2=16 $Min_user_region=3786864 
+ANDROID=525312 $Min_user_region=3261552 
+CACHE=525312 $Min_user_region=2736240 
+BMTPOOL=10240 $Min_user_region=2726000 
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=5888,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x600000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x604000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x660000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xa60000,		Partition=NVRAM,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd60000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd80000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xde0000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x13e0000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x19e0000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x1fe0000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2040000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2340000,		Partition=EXPDB,		SIZE=640,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x23e0000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x23e4000,		Partition=ANDROID,		SIZE=525312,	DL_=1, 	Partition_Index=3,	REGION =USER
+START=0x224e4000,		Partition=CACHE,		SIZE=525312,	DL_=1, 	Partition_Index=4,	REGION =USER
+START=0x425e4000,		Partition=USRDATA,		SIZE=2719744,	DL_=1, 	Partition_Index=5,	REGION =USER
+START=0xFFFFFFFFFFFF0050,		Partition=BMTPOOL,		SIZE=10240,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 19 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+Generate mediatek/misc/EBR3 bin file
+Generate mediatek/misc/EBR4 bin file
+xwguo gen kernel.h**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+Skip FAT because of yes On
+MBR=16 $Min_user_region=3817456 
+EBR1=368 $Min_user_region=3817088 
+PMT=4096 $Min_user_region=3812992 
+NVRAM=3072 $Min_user_region=3809920 
+SECCFG=128 $Min_user_region=3809792 
+UBOOT=384 $Min_user_region=3809408 
+BOOTIMG=6144 $Min_user_region=3803264 
+RECOVERY=6144 $Min_user_region=3797120 
+SEC_RO=6144 $Min_user_region=3790976 
+MISC=384 $Min_user_region=3790592 
+LOGO=3072 $Min_user_region=3787520 
+EXPDB=640 $Min_user_region=3786880 
+EBR2=16 $Min_user_region=3786864 
+ANDROID=525312 $Min_user_region=3261552 
+CACHE=525312 $Min_user_region=2736240 
+BMTPOOL=10240 $Min_user_region=2726000 
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=5888,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x600000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x604000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x660000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xa60000,		Partition=NVRAM,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd60000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd80000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xde0000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x13e0000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x19e0000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x1fe0000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2040000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2340000,		Partition=EXPDB,		SIZE=640,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x23e0000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x23e4000,		Partition=ANDROID,		SIZE=525312,	DL_=1, 	Partition_Index=3,	REGION =USER
+START=0x224e4000,		Partition=CACHE,		SIZE=525312,	DL_=1, 	Partition_Index=4,	REGION =USER
+START=0x425e4000,		Partition=USRDATA,		SIZE=2719744,	DL_=1, 	Partition_Index=5,	REGION =USER
+START=0xFFFFFFFFFFFF0050,		Partition=BMTPOOL,		SIZE=10240,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 19 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+Generate mediatek/misc/EBR3 bin file
+Generate mediatek/misc/EBR4 bin file
+xwguo gen kernel.h**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+Skip FAT because of yes On
+MBR=16 $Min_user_region=3817456 
+EBR1=368 $Min_user_region=3817088 
+PMT=4096 $Min_user_region=3812992 
+NVRAM=3072 $Min_user_region=3809920 
+SECCFG=128 $Min_user_region=3809792 
+UBOOT=384 $Min_user_region=3809408 
+BOOTIMG=6144 $Min_user_region=3803264 
+RECOVERY=6144 $Min_user_region=3797120 
+SEC_RO=6144 $Min_user_region=3790976 
+MISC=384 $Min_user_region=3790592 
+LOGO=3072 $Min_user_region=3787520 
+EXPDB=640 $Min_user_region=3786880 
+EBR2=16 $Min_user_region=3786864 
+ANDROID=525312 $Min_user_region=3261552 
+CACHE=525312 $Min_user_region=2736240 
+BMTPOOL=10240 $Min_user_region=2726000 
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=5888,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x600000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x604000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x660000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xa60000,		Partition=NVRAM,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd60000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd80000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xde0000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x13e0000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x19e0000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x1fe0000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2040000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2340000,		Partition=EXPDB,		SIZE=640,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x23e0000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x23e4000,		Partition=ANDROID,		SIZE=525312,	DL_=1, 	Partition_Index=3,	REGION =USER
+START=0x224e4000,		Partition=CACHE,		SIZE=525312,	DL_=1, 	Partition_Index=4,	REGION =USER
+START=0x425e4000,		Partition=USRDATA,		SIZE=2719744,	DL_=1, 	Partition_Index=5,	REGION =USER
+START=0xFFFFFFFFFFFF0050,		Partition=BMTPOOL,		SIZE=10240,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 19 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+Generate mediatek/misc/EBR3 bin file
+Generate mediatek/misc/EBR4 bin file
+xwguo gen kernel.h**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+Skip FAT because of yes On
+MBR=16 $Min_user_region=3817456 
+EBR1=368 $Min_user_region=3817088 
+PMT=4096 $Min_user_region=3812992 
+NVRAM=3072 $Min_user_region=3809920 
+SECCFG=128 $Min_user_region=3809792 
+UBOOT=384 $Min_user_region=3809408 
+BOOTIMG=6144 $Min_user_region=3803264 
+RECOVERY=6144 $Min_user_region=3797120 
+SEC_RO=6144 $Min_user_region=3790976 
+MISC=384 $Min_user_region=3790592 
+LOGO=3072 $Min_user_region=3787520 
+EXPDB=640 $Min_user_region=3786880 
+EBR2=16 $Min_user_region=3786864 
+ANDROID=525312 $Min_user_region=3261552 
+CACHE=525312 $Min_user_region=2736240 
+BMTPOOL=10240 $Min_user_region=2726000 
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=5888,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x600000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x604000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x660000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xa60000,		Partition=NVRAM,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd60000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd80000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xde0000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x13e0000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x19e0000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x1fe0000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2040000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2340000,		Partition=EXPDB,		SIZE=640,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x23e0000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x23e4000,		Partition=ANDROID,		SIZE=525312,	DL_=1, 	Partition_Index=3,	REGION =USER
+START=0x224e4000,		Partition=CACHE,		SIZE=525312,	DL_=1, 	Partition_Index=4,	REGION =USER
+START=0x425e4000,		Partition=USRDATA,		SIZE=2719744,	DL_=1, 	Partition_Index=5,	REGION =USER
+START=0xFFFF0050,		Partition=BMTPOOL,		SIZE=10240,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 19 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+Generate mediatek/misc/EBR3 bin file
+Generate mediatek/misc/EBR4 bin file
+xwguo gen kernel.h**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+Skip FAT because of yes On
+MBR=16 $Min_user_region=3817456 
+EBR1=368 $Min_user_region=3817088 
+PMT=4096 $Min_user_region=3812992 
+NVRAM=3072 $Min_user_region=3809920 
+SECCFG=128 $Min_user_region=3809792 
+UBOOT=384 $Min_user_region=3809408 
+BOOTIMG=6144 $Min_user_region=3803264 
+RECOVERY=6144 $Min_user_region=3797120 
+SEC_RO=6144 $Min_user_region=3790976 
+MISC=384 $Min_user_region=3790592 
+LOGO=3072 $Min_user_region=3787520 
+EXPDB=640 $Min_user_region=3786880 
+EBR2=16 $Min_user_region=3786864 
+ANDROID=525312 $Min_user_region=3261552 
+CACHE=525312 $Min_user_region=2736240 
+BMTPOOL=10240 $Min_user_region=2726000 
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=5888,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x600000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x604000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x660000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xa60000,		Partition=NVRAM,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd60000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd80000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xde0000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x13e0000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x19e0000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x1fe0000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2040000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2340000,		Partition=EXPDB,		SIZE=640,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x23e0000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x23e4000,		Partition=ANDROID,		SIZE=525312,	DL_=1, 	Partition_Index=3,	REGION =USER
+START=0x224e4000,		Partition=CACHE,		SIZE=525312,	DL_=1, 	Partition_Index=4,	REGION =USER
+START=0x425e4000,		Partition=USRDATA,		SIZE=2719744,	DL_=1, 	Partition_Index=5,	REGION =USER
+START=0xFFFF0050,		Partition=BMTPOOL,		SIZE=10240,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 19 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+Generate mediatek/misc/EBR3 bin file
+Generate mediatek/misc/EBR4 bin file
+xwguo gen kernel.h**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+ERROR in ptgen.pl: (row=1,col=14) undefine in MT6575 emmc otp eng!
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+ERROR in ptgen.pl: (row=1,col=14) undefine in MT6575 emmc otp eng!
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+Ptgen CAN NOT find sheet=MT6575 emmc otp eng in mediatek/build/tools/ptgen/MT6575/partition_table_MT6575.xls
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+Ptgen CAN NOT find sheet=MT6575 emmc otp eng in mediatek/build/tools/ptgen/MT6575/partition_table_MT6575.xls
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 135.
+Name "main::MTK_SHARED_SDCARD" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHEET_NAME=MT6575 emmc otp
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128=2176
+The MAX BOOT1+BOOT2+RPMB=2176  in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+ERROR in ptgen.pl: (row=1,col=14) undefine in MT6575 emmc otp!
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+ERROR in ptgen.pl: (row=1,col=14) undefine in MT6575 emmc otp!
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 135.
+Name "main::MTK_SHARED_SDCARD" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 781.
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHEET_NAME=MT6575 emmc otp
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128=2176
+The MAX BOOT1+BOOT2+RPMB=2176  in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+ERROR in ptgen.pl: (row=1,col=14) undefine in MT6575 emmc otp!
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+ERROR in ptgen.pl: (row=1,col=14) undefine in MT6575 emmc otp!
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+Skip FAT because of yes On
+MBR=16 $Min_user_region=3817456 
+EBR1=368 $Min_user_region=3817088 
+PMT=4096 $Min_user_region=3812992 
+NVRAM=5120 $Min_user_region=3807872 
+SECCFG=128 $Min_user_region=3807744 
+UBOOT=384 $Min_user_region=3807360 
+BOOTIMG=6144 $Min_user_region=3801216 
+RECOVERY=6144 $Min_user_region=3795072 
+SEC_RO=6144 $Min_user_region=3788928 
+MISC=384 $Min_user_region=3788544 
+LOGO=3072 $Min_user_region=3785472 
+EXPDB=2048 $Min_user_region=3783424 
+PRO_INFO=3072 $Min_user_region=3780352 
+EBR2=16 $Min_user_region=3780336 
+CUSTPACK=422912 $Min_user_region=3357424 
+EBR3=16 $Min_user_region=3357408 
+MOBILE_INFO=8192 $Min_user_region=3349216 
+EBR4=16 $Min_user_region=3349200 
+ANDROID=422912 $Min_user_region=2926288 
+CACHE=320512 $Min_user_region=2605776 
+OTP=44032 $Min_user_region=2561744 
+BMTPOOL=21504 $Min_user_region=2540240 
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=5888,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x600000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x604000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x660000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xa60000,		Partition=NVRAM,		SIZE=5120,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xf60000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xf80000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xfe0000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x15e0000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1be0000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x21e0000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2240000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2540000,		Partition=EXPDB,		SIZE=2048,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2740000,		Partition=PRO_INFO,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2a40000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2a44000,		Partition=CUSTPACK,		SIZE=422912,	DL_=1, 	Partition_Index=3,	REGION =USER
+START=0x1c744000,		Partition=EBR3,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1c748000,		Partition=MOBILE_INFO,		SIZE=8192,	DL_=1, 	Partition_Index=4,	REGION =USER
+START=0x1cf48000,		Partition=EBR4,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1cf4c000,		Partition=ANDROID,		SIZE=422912,	DL_=1, 	Partition_Index=5,	REGION =USER
+START=0x36c4c000,		Partition=CACHE,		SIZE=320512,	DL_=1, 	Partition_Index=6,	REGION =USER
+START=0x4a54c000,		Partition=USRDATA,		SIZE=2533376,	DL_=0, 	Partition_Index=7,	REGION =USER
+START=0xFFFF0200,		Partition=OTP,		SIZE=44032,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xFFFF00A8,		Partition=BMTPOOL,		SIZE=21504,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 25 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+Generate mediatek/misc/EBR3 bin file
+Generate mediatek/misc/EBR4 bin file
+xwguo gen kernel.h**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+Skip FAT because of yes On
+MBR=16 $Min_user_region=3817456 
+EBR1=368 $Min_user_region=3817088 
+PMT=4096 $Min_user_region=3812992 
+NVRAM=5120 $Min_user_region=3807872 
+SECCFG=128 $Min_user_region=3807744 
+UBOOT=384 $Min_user_region=3807360 
+BOOTIMG=6144 $Min_user_region=3801216 
+RECOVERY=6144 $Min_user_region=3795072 
+SEC_RO=6144 $Min_user_region=3788928 
+MISC=384 $Min_user_region=3788544 
+LOGO=3072 $Min_user_region=3785472 
+EXPDB=2048 $Min_user_region=3783424 
+PRO_INFO=3072 $Min_user_region=3780352 
+EBR2=16 $Min_user_region=3780336 
+CUSTPACK=422912 $Min_user_region=3357424 
+EBR3=16 $Min_user_region=3357408 
+MOBILE_INFO=8192 $Min_user_region=3349216 
+EBR4=16 $Min_user_region=3349200 
+ANDROID=422912 $Min_user_region=2926288 
+CACHE=320512 $Min_user_region=2605776 
+OTP=44032 $Min_user_region=2561744 
+BMTPOOL=21504 $Min_user_region=2540240 
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=5888,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x600000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x604000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x660000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xa60000,		Partition=NVRAM,		SIZE=5120,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xf60000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xf80000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xfe0000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x15e0000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1be0000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x21e0000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2240000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2540000,		Partition=EXPDB,		SIZE=2048,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2740000,		Partition=PRO_INFO,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2a40000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2a44000,		Partition=CUSTPACK,		SIZE=422912,	DL_=1, 	Partition_Index=3,	REGION =USER
+START=0x1c744000,		Partition=EBR3,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1c748000,		Partition=MOBILE_INFO,		SIZE=8192,	DL_=1, 	Partition_Index=4,	REGION =USER
+START=0x1cf48000,		Partition=EBR4,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x1cf4c000,		Partition=ANDROID,		SIZE=422912,	DL_=1, 	Partition_Index=5,	REGION =USER
+START=0x36c4c000,		Partition=CACHE,		SIZE=320512,	DL_=1, 	Partition_Index=6,	REGION =USER
+START=0x4a54c000,		Partition=USRDATA,		SIZE=2533376,	DL_=0, 	Partition_Index=7,	REGION =USER
+START=0xFFFF0200,		Partition=OTP,		SIZE=44032,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xFFFF00A8,		Partition=BMTPOOL,		SIZE=21504,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 25 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+Generate mediatek/misc/EBR3 bin file
+Generate mediatek/misc/EBR4 bin file
+xwguo gen kernel.h**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
+"my" variable $CUSTOM_MEMORYDEVICE_H_NAME masks earlier declaration in same scope at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 159.
+Name "main::EMMC_CHIP" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 137.
+Name "main::cur" used only once: possible typo at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375.
+Use of uninitialized value $JRD_RAM_SIZE in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 153.
+qiujuan test .. JRD_RAM_SIZE=  
+*******************Arguments*********************
+Version=3.2 ChangeHistory:3.2 Support OTP
+
+MTK_PLATFORM=MT6575
+PROJECT=signal75_jb
+FULL_PROJECT=signal75_jb
+MTK_LCA_SUPPORT=no
+MTK_NAND_PAGE_SIZE=4K
+MTK_EMMC_SUPPORT=yes
+EMMC_CHIP=
+MTK_LDVT_SUPPORT=
+TARGET_BUILD_VARIANT=
+MTK_EMMC_OTP_SUPPORT=yes
+SHARE_SDCARD=yes
+SHEET_NAME=MT6575 emmc otp eng
+SCAT_NAME=mediatek/misc/MT6575_Android_scatter_emmc.txt
+*******************Arguments*********************
+
+
+
+In H9DP32A4JJMCGR,2048,2048,2048,3778560
+In H9TP33A8LDMCMR,2048,2048,2048,3524608
+In H9TP32A4GDMCPR,2048,2048,2048,3778560
+In KMSJS000KM_B308,1024,1024,128,3817472
+In KMNJS000ZM_B205,1024,1024,128,3815296
+In KMJJS000WM_B409,2048,2048,2048,
+In KMKLL000UM_B406,512,512,128,3906432
+In MT29KZZZ4D4TGFAK_5W,2048,2048,2048,
+In KMKJS000VM_B309,1024,1024,128,3815296
+In KMN5U000ZM_B203,2048,2048,128,3813248
+In TYC0FH121597RA,2048,2048,512,3866624
+Use of uninitialized value in concatenation (.) or string at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 375, <CUSTOM_MEMORYDEVICE_H_NAME> line 39.
+Chose region layout: KMSJS000KM_B308, 1024 + 1024 + 128==3817472
+The MAX BOOT1+BOOT2+RPMB=2176  $Min_user_region=3817472 in mediatek/custom/signal75_jb/preloader/inc/custom_MemoryDevice.h
+[Ptgen in module] MBR_Start_Address_KB = 6144
+Get MBR_Start_Address_KB from mediatek/config/signal75_jb/eMMC_Compo.pl = 6144
+Skip FAT because of yes On
+MBR=16 $Min_user_region=3817456 
+EBR1=368 $Min_user_region=3817088 
+PMT=4096 $Min_user_region=3812992 
+NVRAM=3072 $Min_user_region=3809920 
+SECCFG=128 $Min_user_region=3809792 
+UBOOT=384 $Min_user_region=3809408 
+BOOTIMG=6144 $Min_user_region=3803264 
+RECOVERY=6144 $Min_user_region=3797120 
+SEC_RO=6144 $Min_user_region=3790976 
+MISC=384 $Min_user_region=3790592 
+LOGO=3072 $Min_user_region=3787520 
+EXPDB=640 $Min_user_region=3786880 
+EBR2=16 $Min_user_region=3786864 
+ANDROID=525312 $Min_user_region=3261552 
+CACHE=525312 $Min_user_region=2736240 
+OTP=44032 $Min_user_region=2692208 
+BMTPOOL=21504 $Min_user_region=2670704 
+START=0x0,		Partition=PRELOADER,		SIZE=256,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x40000,		Partition=DSP_BL,		SIZE=5888,	DL_=1, 	Partition_Index=0,	REGION =BOOT_1
+START=0x600000,		Partition=MBR,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x604000,		Partition=EBR1,		SIZE=368,	DL_=1, 	Partition_Index=1,	REGION =USER
+START=0x660000,		Partition=PMT,		SIZE=4096,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xa60000,		Partition=NVRAM,		SIZE=3072,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd60000,		Partition=SECCFG,		SIZE=128,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xd80000,		Partition=UBOOT,		SIZE=384,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0xde0000,		Partition=BOOTIMG,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x13e0000,		Partition=RECOVERY,		SIZE=6144,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x19e0000,		Partition=SEC_RO,		SIZE=6144,	DL_=1, 	Partition_Index=2,	REGION =USER
+START=0x1fe0000,		Partition=MISC,		SIZE=384,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x2040000,		Partition=LOGO,		SIZE=3072,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x2340000,		Partition=EXPDB,		SIZE=640,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0x23e0000,		Partition=EBR2,		SIZE=16,	DL_=1, 	Partition_Index=0,	REGION =USER
+START=0x23e4000,		Partition=ANDROID,		SIZE=525312,	DL_=1, 	Partition_Index=3,	REGION =USER
+START=0x224e4000,		Partition=CACHE,		SIZE=525312,	DL_=1, 	Partition_Index=4,	REGION =USER
+START=0x425e4000,		Partition=USRDATA,		SIZE=2664448,	DL_=0, 	Partition_Index=5,	REGION =USER
+START=0xFFFF0200,		Partition=OTP,		SIZE=44032,	DL_=0, 	Partition_Index=0,	REGION =USER
+START=0xFFFF00A8,		Partition=BMTPOOL,		SIZE=21504,	DL_=0, 	Partition_Index=0,	REGION =USER
+There are 20 Partition totally!.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value in string ne at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 590.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Use of uninitialized value $TARGET_BUILD_MMITEST in string eq at mediatek/build/tools/ptgen/MT6575/ptgen.pl line 842.
+Generate mediatek/misc/MBR bin file
+Generate mediatek/misc/EBR1 bin file
+Generate mediatek/misc/EBR2 bin file
+Generate mediatek/misc/EBR3 bin file
+Generate mediatek/misc/EBR4 bin file
+xwguo gen kernel.h**********Ptgen Done********** ^_^
+
+
+Ptgen modified or Generated files list:
+mediatek/misc/MT6575_Android_scatter_emmc.txt
+mediatek/custom/signal75_jb/common/partition_define.h
+mediatek/config/signal75_jb/configs/EMMC_partition_size.mk
+/out/MBR EBR1 EBR2 
+
+
+
+
